@@ -248,4 +248,4 @@ This repository serves as the official landing page for phpBB. The software is d
 **Get the most recent version of phpBB today!**
 
 ---
-**Last updated:** 2026-09-11 08:47:50 UTC
+**Last updated:** 2026-09-11 13:24:43 UTC
